@@ -1,8 +1,13 @@
 title: "Boski Stream"
 email: "kontakt@boski.stream"
-phone: ""
-googleAnalytics: "G-X6HQ1VMHZX"
-
+phone: "Codzienne spotkania z Jezusem i Ewangelią."
+googleAnalytics: "G-D11H4J64NS"
+colors:
+  backgroundDark: "#cfa742"
+  text: "#ffffff"
+  link: "#e6caf8"
+  link_hover: "#ff9e00"
+  
 socials:
   - name: "Facebook"
     url: "https://facebook.com/BoskiStream"
